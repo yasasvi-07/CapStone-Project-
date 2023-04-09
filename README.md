@@ -1,4 +1,4 @@
-# capstone-project-
+# CapStone-Project-
 
 Assume you are a Chancellor Of Private University and you are
 having less results in Btech DataScience.You are hiring a
